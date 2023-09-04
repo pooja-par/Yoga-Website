@@ -382,7 +382,7 @@ header .border-img {
 }
 
 .scroll:hover .fa {
-    padding-top: -10px;
+    margin-top: -10px;
 }
 
 .scroll .fa {
@@ -1562,7 +1562,7 @@ header .border-img {
     -webkit-justify-content: center;
     -ms-flex-pack: center;
     justify-content: center;
-    margin: 0 px;
+    margin: 0px;
     width: 116px;
     height: 31px;
     text-decoration: none;
