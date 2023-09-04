@@ -81,7 +81,7 @@ hr {
     padding: 0;
 }
 
-/*-- scroll to top ---*/
+/*-- scroll to top 
 
 #return-to-top {
     bottom: 20px;
@@ -126,6 +126,9 @@ hr {
     color: #ffffff;
     top: 5px;
 }
+---*/
+
+
 
 ::placeholder {
     font-size: 14px;
