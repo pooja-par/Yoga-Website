@@ -18,12 +18,12 @@ Discover the path to inner peace, strength, and well-being through the timeless 
 
 - Featured on all three pages, the full responsive navigation bar includes links to the Logo, Home page, Gallery and Sign Up page and is identical in each page to allow for easy navigation.
 - This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the back button.
-![Navigation Bar]<https://github.com/pooja-par/Yoga-Website/blob/main/assets/images/navigation.png>
+![Navigation Bar](<https://github.com/pooja-par/Yoga-Website/blob/main/assets/images/navigation.png>)
 
 - The landing page image
 
 This section introduces the user to Yoga-Website with an eye catching animation to grab their attention.
-![The landing page image]<https://github.com/pooja-par/Yoga-Website/blob/main/assets/images/landing_%20page.png>
+![The landing page image](<https://github.com/pooja-par/Yoga-Website/blob/main/assets/images/landing_page.png>)
 <https://github.com/pooja-par/Yoga-Website/blob/main/assets/images/about.png>
 
 - Header
