@@ -2,6 +2,9 @@ Yoga-Website
 
 Discover the path to inner peace, strength, and well-being through the timeless practice of yoga. Our dedicated team of experienced instructors is here to guide you on a transformative journey that nurtures your body, mind, and spirit.
 
+## Site Goal
+- To regularly update our current users with the latest information,To Keep users coming back to regularly check on this information.
+
 ## Features
 
 - Responsive design for various screen sizes.
@@ -14,6 +17,7 @@ Discover the path to inner peace, strength, and well-being through the timeless 
 
 Featured on all three pages, the full responsive navigation bar includes links to the Logo, Home page, Gallery and Sign Up page and is identical in each page to allow for easy navigation.
 This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the back button.
+<https://github.com/pooja-par/Yoga-Website/blob/main/assets/images/navigation.png>
 
 - The landing page image
 
