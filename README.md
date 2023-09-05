@@ -74,7 +74,7 @@ No errors were returned when passing through the official W3C validator
 No errors were found when passing through the official (Jigsaw) validator.
 
 ![Index validator](<https://github.com/pooja-par/Yoga-Website/blob/main/assets/images/index_validator.png>)
-![About validator](<https://github.com/pooja-par/Yoga-Website/blob/main/assets/images/about.png>)
+![About validator](<https://github.com/pooja-par/Yoga-Website/blob/main/assets/images/about_validator.png>)
 ![Rates validator](<https://github.com/pooja-par/Yoga-Website/blob/main/assets/images/rates_validator.png>)
 
 ## Unfixed Bugs
