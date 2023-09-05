@@ -23,6 +23,7 @@ This section will allow the user to easily navigate from page to page across all
 
 This section introduces the user to Yoga-Website with an eye catching animation to grab their attention.
 <https://github.com/pooja-par/Yoga-Website/blob/main/assets/images/The%20Landing%20page.png>
+<https://github.com/pooja-par/Yoga-Website/blob/main/assets/images/about%20us.png>
 
 - Header
 
