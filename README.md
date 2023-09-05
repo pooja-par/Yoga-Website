@@ -49,6 +49,7 @@ Contact phone number.
 
 Links to social media profiles (Facebook, Twitter, YouTube, Instagram).
 Allows users to connect with the Yoga Studio on various social platforms.
+<https://github.com/pooja-par/Yoga-Website/blob/main/assets/images/social%20media.png>
 
 - Image Gallery
   
@@ -99,8 +100,10 @@ The live link can be found here -
 <https://pixabay.com/images/search/yoga/>
 <https://www.pexels.com/photo/women-doing-yoga-class-on-pink-yoga-mat-3775593/>
 
+## Main Languages Used
+HTML
+CSS
 
-## Content
 
 ## Media
 
