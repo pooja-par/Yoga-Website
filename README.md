@@ -1,82 +1,103 @@
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
+Yoga-Website
 
-![Responsice Mockup](https://github.com/pooja-par/Yoga-Website/blob/main/assets/images/blog-1.jpg)
+Discover the path to inner peace, strength, and well-being through the timeless practice of yoga. Our dedicated team of experienced instructors is here to guide you on a transformative journey that nurtures your body, mind, and spirit.
 
-Welcome,
+## Features
 
-This is the Code Institute student template for Codeanywhere. We have preinstalled all of the tools you need to get started. It's perfectly ok to use this template as the basis for your project submissions.
+- Responsive design for various screen sizes.
+- Navigation menu with a slide-out sidebar.
+- Use of icons from Font Awesome for visual elements.
 
-You can safely delete this README.md file, or change it for your own project. Please do read it at least once, though! It contains some important information about Codeanywhere and the extensions we use. Some of this information has been updated since the video content was created. The last update to this file was: **May 11th, 2023**
+### Existing Features
 
-## Codeanywhere Reminders
+- Navigation Bar
 
-To run a frontend (HTML, CSS, Javascript only) application in Codeanywhere, in the terminal, type:
+Featured on all three pages, the full responsive navigation bar includes links to the Logo, Home page, Gallery and Sign Up page and is identical in each page to allow for easy navigation.
+This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the back button.
 
-`python3 -m http.server`
+- The landing page image
 
-A button should appear to click: _Open Preview_ or _Open Browser_.
+This section introduces the user to Yoga-Website with an eye catching animation to grab their attention.
+<https://github.com/pooja-par/Yoga-Website/blob/main/assets/images/The%20Landing%20page.png>
 
-To run a frontend (HTML, CSS, Javascript only) application in Codeanywhere with no-cache, you can use this alias for `python3 -m http.server`.
+- Header
 
-`http_server`
+A responsive header with a navigation bar.
+Contact information on the left side of the header, including a phone number.
 
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
+- Services Section
 
-A button should appear to click: _Open Preview_ or _Open Browser_.
+A section that highlights the benefits of yoga.
+Description of how yoga is suitable for all age groups.
+A list of key points about yoga's benefits.
+<https://github.com/pooja-par/Yoga-Website/blob/main/assets/images/Service.png>
 
-In Codeanywhere you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the lessons.
+- Contact Footer
 
-To log into the Heroku toolbelt CLI:
+A footer section with contact information.
+Address and location details.
+Opening hours for different days of the week.
+Contact phone number.
+<https://github.com/pooja-par/Yoga-Website/blob/main/assets/images/contact.png>
 
-1. Log in to your Heroku account and go to _Account Settings_ in the menu under your avatar.
-2. Scroll down to the _API Key_ and click _Reveal_
-3. Copy the key
-4. In Codeanywhere, from the terminal, run `heroku_config`
-5. Paste in your API key when asked
+- Social Media Links
 
-You can now use the `heroku` CLI program - try running `heroku apps` to confirm it works. This API key is unique and private to you so do not share it. If you accidentally make it public then you can create a new one with _Regenerate API Key_.
+Links to social media profiles (Facebook, Twitter, YouTube, Instagram).
+Allows users to connect with the Yoga Studio on various social platforms.
 
----
+- Image Gallery
+  
+A visually appealing image gallery showcasing yoga-related images.
+Multiple images are displayed in a grid layout.
 
-Happy coding!
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
+- Styling and Fonts
 
-![Responsice Mockup](https://github.com/pooja-par/Yoga-Website/blob/main/assets/images/blog-1.jpg)
+CSS for responsive design and style.
+Google Fonts for typography.
+Font Awesome icons for visual enhancements.
 
-Welcome,
+### Features Left to Implement
 
-This is the Code Institute student template for Codeanywhere. We have preinstalled all of the tools you need to get started. It's perfectly ok to use this template as the basis for your project submissions.
+- Implementing a blog section to share yoga-related articles.
+- Integrating an online booking system for classes.
 
-You can safely delete this README.md file, or change it for your own project. Please do read it at least once, though! It contains some important information about Codeanywhere and the extensions we use. Some of this information has been updated since the video content was created. The last update to this file was: **May 11th, 2023**
+## Testing
 
-## Codeanywhere Reminders
+- Responsive design tested on various devices (desktop, tablet, mobile).
 
-To run a frontend (HTML, CSS, Javascript only) application in Codeanywhere, in the terminal, type:
+## Validator Testing
 
-`python3 -m http.server`
+-HTML
+No errors were returned when passing through the official W3C validator
+-CSS
+No errors were found when passing through the official (Jigsaw) validator
+<https://github.com/pooja-par/Yoga-Website/blob/main/assets/images/index.html%20validator.png>
+<https://github.com/pooja-par/Yoga-Website/blob/main/assets/images/rates.html%20validator.png>
+<https://github.com/pooja-par/Yoga-Website/blob/main/assets/images/about.html%20validator.png>
 
-A button should appear to click: _Open Preview_ or _Open Browser_.
+## Unfixed Bugs
 
-To run a frontend (HTML, CSS, Javascript only) application in Codeanywhere with no-cache, you can use this alias for `python3 -m http.server`.
+No known unfixed bugs at the moment. The website is functioning as expected.
 
-`http_server`
+## Deployment
 
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
+The site was deployed to GitHub pages. The steps to deploy are as follows:
+In the GitHub repository, navigate to the Settings tab
+From the source section drop-down menu, select the Master Branch
+Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
 
-A button should appear to click: _Open Preview_ or _Open Browser_.
+The live link can be found here -
 
-In Codeanywhere you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the lessons.
+## Credits
 
-To log into the Heroku toolbelt CLI:
+- <https://unsplash.com/s/photos/yoga>
+<https://pixabay.com/images/search/yoga/>
+<https://www.pexels.com/photo/women-doing-yoga-class-on-pink-yoga-mat-3775593/>
 
-1. Log in to your Heroku account and go to _Account Settings_ in the menu under your avatar.
-2. Scroll down to the _API Key_ and click _Reveal_
-3. Copy the key
-4. In Codeanywhere, from the terminal, run `heroku_config`
-5. Paste in your API key when asked
 
-You can now use the `heroku` CLI program - try running `heroku apps` to confirm it works. This API key is unique and private to you so do not share it. If you accidentally make it public then you can create a new one with _Regenerate API Key_.
+## Content
 
----
+## Media
 
-Happy coding!
+All media assets, including images, are taken from Internet.
+  
