@@ -1,4 +1,4 @@
-Yoga-Website
+## Yoga-Website
 
 Discover the path to inner peace, strength, and well-being through the timeless practice of yoga. Our dedicated team of experienced instructors is here to guide you on a transformative journey that nurtures your body, mind, and spirit.
 
@@ -9,27 +9,25 @@ Discover the path to inner peace, strength, and well-being through the timeless 
 ## Features
 
 - Responsive design for various screen sizes.
-- Navigation menu with a slide-out sidebar.
 - Use of icons from Font Awesome for visual elements.
 
 ### Existing Features
 
 - Navigation Bar
 
-- Featured on all three pages, the full responsive navigation bar includes links to the Logo, Home page, Gallery and Sign Up page and is identical in each page to allow for easy navigation.
+- Featured on all three pages, the full responsive navigation bar includes links to the Logo, Home page, Gallery is identical in each page to allow for easy navigation.
 - This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the back button.
 ![Navigation Bar](<https://github.com/pooja-par/Yoga-Website/blob/main/assets/images/navigation.png>)
 
 - The landing page image
 
-This section introduces the user to Yoga-Website with an eye catching animation to grab their attention.
+This section introduces the user to Yoga-Website.
 ![The landing page image](<https://github.com/pooja-par/Yoga-Website/blob/main/assets/images/landing_page.png>)
 ![About us page](<https://github.com/pooja-par/Yoga-Website/blob/main/assets/images/about.png>)
 
 - Header
 
 A responsive header with a navigation bar.
-Contact information on the left side of the header, including a phone number.
 
 - Services Section
 
@@ -42,8 +40,8 @@ A list of key points about yoga's benefits.
 
 A footer section with contact information.
 Address and location details.
-Opening hours for different days of the week.
 Contact phone number.
+Quick contact service available.
 ![Contact Footer](<https://github.com/pooja-par/Yoga-Website/blob/main/assets/images/contact.png>)
 
 - Social Media Links
@@ -52,10 +50,6 @@ Links to social media profiles (Facebook, Twitter, YouTube, Instagram).
 Allows users to connect with the Yoga Studio on various social platforms.
 ![Social Media Links](<https://github.com/pooja-par/Yoga-Website/blob/main/assets/images/social_media.png>)
 
-- Image Gallery
-  
-A visually appealing image gallery showcasing yoga-related images.
-Multiple images are displayed in a grid layout.
 
 - Styling and Fonts
 
