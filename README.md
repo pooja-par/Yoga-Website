@@ -24,7 +24,7 @@ Discover the path to inner peace, strength, and well-being through the timeless 
 
 This section introduces the user to Yoga-Website with an eye catching animation to grab their attention.
 ![The landing page image](<https://github.com/pooja-par/Yoga-Website/blob/main/assets/images/landing_page.png>)
-<https://github.com/pooja-par/Yoga-Website/blob/main/assets/images/about.png>
+![About us page](<https://github.com/pooja-par/Yoga-Website/blob/main/assets/images/about.png>)
 
 - Header
 
@@ -36,7 +36,7 @@ Contact information on the left side of the header, including a phone number.
 A section that highlights the benefits of yoga.
 Description of how yoga is suitable for all age groups.
 A list of key points about yoga's benefits.
-![Services Section]<https://github.com/pooja-par/Yoga-Website/blob/main/assets/images/service.png>
+![Services Section](<https://github.com/pooja-par/Yoga-Website/blob/main/assets/images/service.png>)
 
 - Contact Footer
 
@@ -44,13 +44,13 @@ A footer section with contact information.
 Address and location details.
 Opening hours for different days of the week.
 Contact phone number.
-![Contact Footer]<https://github.com/pooja-par/Yoga-Website/blob/main/assets/images/contact.png>
+![Contact Footer](<https://github.com/pooja-par/Yoga-Website/blob/main/assets/images/contact.png>)
 
 - Social Media Links
 
 Links to social media profiles (Facebook, Twitter, YouTube, Instagram).
 Allows users to connect with the Yoga Studio on various social platforms.
-![Social Media Links]<https://github.com/pooja-par/Yoga-Website/blob/main/assets/images/social_media.png>
+![Social Media Links](<https://github.com/pooja-par/Yoga-Website/blob/main/assets/images/social_media.png>)
 
 - Image Gallery
   
@@ -77,10 +77,11 @@ Font Awesome icons for visual enhancements.
 -HTML
 No errors were returned when passing through the official W3C validator
 -CSS
-No errors were found when passing through the official (Jigsaw) validator
-![Index validator]<https://github.com/pooja-par/Yoga-Website/blob/main/assets/images/index_validator.png>
-![About validator]<https://github.com/pooja-par/Yoga-Website/blob/main/assets/images/about.png>
-![Rates validator]<https://github.com/pooja-par/Yoga-Website/blob/main/assets/images/rates_validator.png>
+No errors were found when passing through the official (Jigsaw) validator.
+
+![Index validator](<https://github.com/pooja-par/Yoga-Website/blob/main/assets/images/index_validator.png>)
+![About validator](<https://github.com/pooja-par/Yoga-Website/blob/main/assets/images/about.png>)
+![Rates validator](<https://github.com/pooja-par/Yoga-Website/blob/main/assets/images/rates_validator.png>)
 
 ## Unfixed Bugs
 
@@ -89,9 +90,10 @@ No known unfixed bugs at the moment. The website is functioning as expected.
 ## Deployment
 
 The site was deployed to GitHub pages. The steps to deploy are as follows:
-In the GitHub repository, navigate to the Settings tab
-From the source section drop-down menu, select the Master Branch
-Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
+
+- In the GitHub repository, navigate to the Settings tab
+- From the source section drop-down menu, select the Master Branch
+- Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
 
 The live link can be found here -
 
