@@ -1,19 +1,25 @@
 ## Yoga-Website
 
-Discover the path to inner peace, strength, and well-being through the timeless practice of yoga. Our dedicated team of experienced instructors is here to guide you on a transformative journey that nurtures your body, mind, and spirit.
+"This website serves as a platform for users to explore and find relevant yoga sessions. It offers an opportunity for individuals to embark on a journey towards inner peace, strength, and overall well-being through the timeless practice of yoga. Our dedicated team of experienced instructors is here to provide guidance on this transformative path, nurturing not only the body but also the mind and spirit of our users."
+
+![Responsice Mockup Desktop](https://github.com/pooja-par/Yoga-Website/blob/main/assets/images/bigscreen.png)
+![Responsice Mockup Mobile](https://github.com/pooja-par/Yoga-Website/blob/main/assets/images/mobile_screening.png)
 
 ## Site Goal
 
-- To regularly update our current users with the latest information,To Keep users coming back to regularly check on this information.
+To regularly update our current users with the latest information,To Keep users coming back to regularly check on this information.
 
 ## Features
 
-- Responsive design for various screen sizes.
-- Use of icons from Font Awesome for visual elements.
+- Responsive design for various screen sizes: Check the pictures in first section.
+- Navigation Bar
+- Easy to contact and Easy to do inquiry.
+- Easy to find the sessions and corrosponding costs.
+- Users can easily connect and find more information using social-media icons
 
 ### Existing Features
 
-- Navigation Bar
+-__Navigation Bar__
 
 - Featured on all three pages, the full responsive navigation bar includes links to the Logo, Home page, Gallery is identical in each page to allow for easy navigation.
 - This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the back button.
