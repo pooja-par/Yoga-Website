@@ -6,7 +6,7 @@ This website serves as a platform for users to explore and find relevant yoga se
 ![Responsice Mockup Mobile](https://github.com/pooja-par/Yoga-Website/blob/main/assets/images/mobile_screening.png)
 
 
-Author of the code: Pooja Parmar
+Author: Pooja Parmar
 
 
 ## Site Goal
