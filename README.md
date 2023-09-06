@@ -1,9 +1,13 @@
-## Yoga-Website
+## Yoga-Website Overview
 
-"This website serves as a platform for users to explore and find relevant yoga sessions. It offers an opportunity for individuals to embark on a journey towards inner peace, strength, and overall well-being through the timeless practice of yoga. Our dedicated team of experienced instructors is here to provide guidance on this transformative path, nurturing not only the body but also the mind and spirit of our users."
+This website serves as a platform for users to explore and find relevant yoga sessions. It offers an opportunity for individuals to embark on a journey towards inner peace, strength, and overall well-being through the timeless practice of yoga. Our dedicated team of experienced instructors is here to provide guidance on this transformative path, nurturing not only the body but also the mind and spirit of our users.
 
 ![Responsice Mockup Desktop](https://github.com/pooja-par/Yoga-Website/blob/main/assets/images/bigscreen.png)
 ![Responsice Mockup Mobile](https://github.com/pooja-par/Yoga-Website/blob/main/assets/images/mobile_screening.png)
+
+
+Author of the code: Pooja Parmar
+
 
 ## Site Goal
 
@@ -19,49 +23,59 @@ To regularly update our current users with the latest information,To Keep users 
 
 ### Existing Features
 
+-__Header__
+
+A responsive header featuring a navigation bar that allows users to easily access contact information and return to the homepage with a simple click on the logo.
+
+![About us page](https://github.com/pooja-par/Yoga-Website/blob/main/assets/images/header.png)
+
 -__Navigation Bar__
 
 - Featured on all three pages, the full responsive navigation bar includes links to the Logo, Home page, Gallery is identical in each page to allow for easy navigation.
 - This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the back button.
+- 
 ![Navigation Bar](<https://github.com/pooja-par/Yoga-Website/blob/main/assets/images/navigation.png>)
 
-- The landing page image
 
-This section introduces the user to Yoga-Website.
+-__Landing & About Us page__
+
+This section serves as an introduction to the Yoga-Website, providing users with information about the organization's objectives and its historical background.
+
 ![The landing page image](<https://github.com/pooja-par/Yoga-Website/blob/main/assets/images/landing_page.png>)
+
 ![About us page](<https://github.com/pooja-par/Yoga-Website/blob/main/assets/images/about.png>)
 
-- Header
 
-A responsive header with a navigation bar.
+-__Services Section__
 
-- Services Section
+An informative section showcasing the advantages of practicing yoga. Additionally, within the "Services" tab, users can explore various yoga sessions and their corresponding weekly costs.
 
-A section that highlights the benefits of yoga.
-Description of how yoga is suitable for all age groups.
-A list of key points about yoga's benefits.
 ![Services Section](<https://github.com/pooja-par/Yoga-Website/blob/main/assets/images/service.png>)
 
-- Contact Footer
 
-A footer section with contact information.
-Address and location details.
-Contact phone number.
-Quick contact service available.
+-__Footer__
+
+- Contact Detail
+
+A footer section consists of contact detail and the social media icon. 
+User can have Address, phone number and form for quick contact.
+User can also find the opening hours. 
+
 ![Contact Footer](<https://github.com/pooja-par/Yoga-Website/blob/main/assets/images/contact.png>)
 
 - Social Media Links
 
 Links to social media profiles (Facebook, Twitter, YouTube, Instagram).
-Allows users to connect with the Yoga Studio on various social platforms.
+It allows user to connect with the Yoga Studio on various social platforms.
+
 ![Social Media Links](<https://github.com/pooja-par/Yoga-Website/blob/main/assets/images/social_media.png>)
 
 
-- Styling and Fonts
+-__Styling and Fonts__
 
 CSS for responsive design and style.
 Google Fonts for typography.
-Font Awesome icons for visual enhancements.
+
 
 ### Features Left to Implement
 
@@ -70,7 +84,7 @@ Font Awesome icons for visual enhancements.
 
 ## Testing
 
-- Responsive design tested on various devices (desktop, tablet, mobile).
+- Responsive design tested on various devices (desktop & mobile).
 
 ## Validator Testing
 
@@ -82,6 +96,8 @@ No errors were found when passing through the official (Jigsaw) validator.
 ![Index validator](<https://github.com/pooja-par/Yoga-Website/blob/main/assets/images/index_validator.png>)
 ![About validator](<https://github.com/pooja-par/Yoga-Website/blob/main/assets/images/about_validator.png>)
 ![Rates validator](<https://github.com/pooja-par/Yoga-Website/blob/main/assets/images/rates_validator.png>)
+![CSS validator](<https://github.com/pooja-par/Yoga-Website/blob/main/assets/images/css_validation.png>)
+
 
 ## Unfixed Bugs
 
@@ -95,20 +111,32 @@ The site was deployed to GitHub pages. The steps to deploy are as follows:
 - From the source section drop-down menu, select the Master Branch
 - Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
 
-The live link can be found here -
+The live link can be found here - <https://pooja-par.github.io/Yoga-Website/>
 
 ## Credits
-All images are taken from foolowing links:
+
+### Medida
+All images are taken from following links:
 - <https://unsplash.com/s/photos/yoga>
 - <https://pixabay.com/images/search/yoga/>
 - <https://www.pexels.com/photo/women-doing-yoga-class-on-pink-yoga-mat-3775593/>
 
-## Main Languages Used
-HTML
-CSS
+### Content
+following plateform was used as a reference to develop the code.
+<https://www.w3schools.com/bootstrap/bootstrap_ref_all_classes.asp>
 
 
-## Media
+## Main Languages Technology
 
-All media assets, including images, are taken from Internet.
-  
+- HTML: The website's structure is built using HTML (Hypertext Markup Language).
+- CSS: Cascading Style Sheets (CSS) are used to apply styles and ensure a visually appealing design.
+- Bootstrap: The Bootstrap framework is employed for responsive design and layout components.
+- Google Fonts: Google Fonts are used to enhance typography with a variety of font choices.
+
+## Usage
+
+Navigate through the website using the responsive header and navigation bar.
+Explore the benefits and organizational goal in the "About" section.
+Find details about various yoga sessions and their costs in the "Services" section.
+Contact the studio by filling out the quick contact form in the footer.
+Connect with the studio on social media through the provided links.
